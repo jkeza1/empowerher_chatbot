@@ -47,6 +47,20 @@ docker-compose up --build
 open http://localhost:8501
 ```
 
+### Manual Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/empowerher_chatbot.git
+cd empowerher-chatbot
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the application
+streamlit run app/streamlit_app.py
+```
+
 ## 📝 Sample Questions
 
 Here are some sample questions you can ask **EmpowerHer Chatbot**:
@@ -68,20 +82,6 @@ Here are some sample questions you can ask **EmpowerHer Chatbot**:
 15. What mental health challenges do women face?
 
 💡 Tip: Try asking the chatbot any of these questions to get informative, context-aware responses.
-
-### Manual Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/empowerher_chatbot.git
-cd empowerher-chatbot
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-streamlit run app/streamlit_app.py
-```
 
 ## 📁 Project Structure
 
