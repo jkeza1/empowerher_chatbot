@@ -33,7 +33,7 @@ A sophisticated AI-powered chatbot designed to support women's empowerment, educ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/empowerher-chatbot.git
+git clone https://github.com/yourusername/empowerher_chatbot.git
 cd empowerher-chatbot
 
 # Build and run with Docker Compose
@@ -47,7 +47,7 @@ open http://localhost:8501
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/empowerher-chatbot.git
+git clone https://github.com/yourusername/empowerher_chatbot.git
 cd empowerher-chatbot
 
 # Install dependencies
@@ -60,7 +60,7 @@ streamlit run app/streamlit_app.py
 ## 📁 Project Structure
 
 ```
-empowerher-chatbot/
+empowerher_chatbot/
 ├── app/
 │   └── streamlit_app.py          # Main web application
 ├── src/
@@ -126,10 +126,10 @@ python run.py --mode eval
 
 ```bash
 # Build image
-docker build -t empowerher-chatbot .
+docker build -t empowerher_chatbot.
 
 # Run container
-docker run -p 8501:8501 empowerher-chatbot
+docker run -p 8501:8501 empowerher_chatbot
 ```
 
 ### Cloud Deployment
