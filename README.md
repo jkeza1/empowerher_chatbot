@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered chatbot designed to support women's empowerment, education, and personal growth. Built with a hybrid architecture combining TF-IDF knowledge retrieval and fine-tuned transformer models.
 
+🎬 **Demo Video:** [Watch here](https://youtu.be/nKOf-V3N8eA)
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
