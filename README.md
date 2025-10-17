@@ -47,6 +47,28 @@ docker-compose up --build
 open http://localhost:8501
 ```
 
+## 📝 Sample Questions
+
+Here are some sample questions you can ask **EmpowerHer Chatbot**:
+
+1. What is women's empowerment?  
+2. What does gender equality mean?  
+3. Why is girls' education important?  
+4. What is the gender pay gap?  
+5. How can women improve work-life balance?  
+6. How can I boost my confidence at work?  
+7. What are women's reproductive rights?  
+8. How can women achieve leadership positions?  
+9. What is the confidence gap?  
+10. How can I deal with imposter syndrome?  
+11. What are microfinance opportunities for women?  
+12. How does unpaid care work affect women economically?  
+13. Why is political participation important for women?  
+14. How can girls get into STEM fields?  
+15. What mental health challenges do women face?
+
+💡 Tip: Try asking the chatbot any of these questions to get informative, context-aware responses.
+
 ### Manual Installation
 
 ```bash
